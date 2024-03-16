@@ -1,4 +1,4 @@
-# Variational Autoencoders for Generative Modeling
+# Variational Autoencoders (VAEs) for Generative Modeling
 ![GitHub last commit](https://img.shields.io/github/last-commit/elliothha/variational-autoencoders) ![GitHub repo size](https://img.shields.io/github/repo-size/elliothha/variational-autoencoders)
 
 *[3/15/24 Update] Uploaded notebook for a VAE modeling the MNIST dataset*
