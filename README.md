@@ -5,7 +5,7 @@
 
 This repo contains a PyTorch implementation of a standard Variational Autoencoder (VAE) purely intended for educational purposes.
 
-Generated sample MNIST image [results](https://github.com/elliothha/variational-autoencoders/blob/main/README.md#after-30-training-epochs) after 30 training epochs
+Results after training found [here](https://github.com/elliothha/variational-autoencoders/tree/main?tab=readme-ov-file#after-30-training-epochs).
 
 by **Elliot H Ha**. Duke University
 
@@ -63,9 +63,6 @@ Training loss: 9459.2032, Validation loss: 9486.7833
 ### After 30 Training Epochs
 Training loss: 9412.7533, Validation loss: 9456.9637
 ![VAE sampling results for 30 training epochs](/examples/large_samples_30.png)
-
-### Training vs Validation Loss
-![Training vs Validation loss](/examples/loss_plot.png)
 
 ---
 
