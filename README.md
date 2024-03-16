@@ -5,7 +5,7 @@
 
 This repo contains a PyTorch implementation of a standard Variational Autoencoder (VAE) purely intended for educational purposes.
 
-Results after training found [here](https://github.com/elliothha/variational-autoencoders/tree/main?tab=readme-ov-file#after-30-training-epochs).
+Results after training found [here](https://github.com/elliothha/variational-autoencoders/tree/main?tab=readme-ov-file#after-30-training-epochs). Full generative modeling zoo found [here](https://github.com/elliothha/generative-modeling-zoo).
 
 by **Elliot H Ha**. Duke University
 
