@@ -67,5 +67,5 @@ Training loss: 9412.7533, Validation loss: 9456.9637
 ---
 
 ## References
-1. Auto-Encoding Variational Bayes, Kingma and Welling 2013 | [1312.6114](https://arxiv.org/abs/1312.6114)
-2. Tutorial on Variational Autoencoders, Doersch 2016 | [1606.05908](https://arxiv.org/abs/1606.05908)
+1. *Auto-Encoding Variational Bayes*, Kingma and Welling 2013 | [1312.6114](https://arxiv.org/abs/1312.6114)
+2. *Tutorial on Variational Autoencoders*, Doersch 2016 | [1606.05908](https://arxiv.org/abs/1606.05908)
